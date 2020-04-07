@@ -1,0 +1,17 @@
+#K IRAF       = NOAO/IRAF V2.16                version   
+#K USER       = mmarcano                       name      
+#K HOST       = spurious                       computer  
+#K DATE       = 2020-04-06                     yyyy-mm-dd
+#K TIME       = 23:44:14                       hh:mm:ss  
+#K PACKAGE    = rv                             name      
+#K TASK       = fxcor                          name      
+# 
+#T Template ' A' -- Object = '________'                                      \*
+#                   Image  = '2015-04-09T06:34:07.011.fits'    Vhelio = INDEF
+# 
+#  Velocity Dispersion = 14.26 Km/sec/pixel     Rebinned WPC = 2.06600E-5
+# 
+#N OBJECT        IMAGE     REF   HJD       AP    CODES     SHIFT   HGHT FWHM    TDR    VOBS      VREL       VHELIO     VERR
+#U name          image           days            cfr/fun   pixel                       km/s      km/s       km/s       km/s
+#
+________         2015-04-09T06:58:17.018.fits  A  INDEF       1    BNS/gau   0.278   0.62 1036.29 22.48  INDEF     3.9600     INDEF      34.664 

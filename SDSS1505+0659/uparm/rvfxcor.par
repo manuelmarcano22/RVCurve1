@@ -1,5 +1,5 @@
-objects,s,a,'2015-08-11T07:49:39.006.fits',,,'List of object spectra'
-templates,s,a,'2015-08-11T09:53:30.002.fits',,,'List of template spectra'
+objects,s,a,'2015-04-09T08:32:55.004',,,'List of object spectra'
+templates,s,a,'2015-04-09T06:34:07.011.fits',,,'List of template spectra'
 apertures,s,h,'*',,,'Apertures to be used'
 cursor,*gcur,h,'',,,'Graphics input cursor
 '

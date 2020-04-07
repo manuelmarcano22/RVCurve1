@@ -1,5 +1,5 @@
-input,s,a,'2015-08-11T09:12:58.011.txt',,,'Input list of text spectra'
-output,s,a,'d.fits',,,'Output list of image spectra'
+input,s,a,'2015-04-09T06:34:07.011.txt',,,'Input list of text spectra'
+output,s,a,'a.fits',,,'Output list of image spectra'
 title,s,h,'',,,'Spectrum title'
 flux,b,h,no,,,'Flux calibrated?'
 dtype,s,h,'linear','|none|linear|log|nonlinear|interp|',,'Dispersion type'

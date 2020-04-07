@@ -4,7 +4,7 @@
 if (defpar ("logver"))
     logver = "IRAF V2.16 March 2012"
 
-set	home		= "/home/mmarcano/Documents/RVCurve1/"
+set	home		= "/home/mmarcano/Documents/RVCurve1/SDSS1505+0659/"
 set	imdir		= "/tmp/mmarcano/"
 set	cache		= "U_CACHEDIR"
 set	uparm		= "home$uparm/"
